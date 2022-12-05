@@ -21,7 +21,7 @@ body {
     color: rgb(247, 248, 252);
     background-image: url(Moon.jpg);
     background-repeat: no-repeat;
-    background-size: 2400px 1500px;
+    background-size: 2550px 1500px;
 }
 
 img {
@@ -47,4 +47,5 @@ p {
     margin: 40px auto;
     border: 3px solid rgb(116, 115, 115);
     box-shadow: 5px 5px #3a3939;
+    margin-top: auto;
   }
